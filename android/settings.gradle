@@ -1,0 +1,3 @@
+rootProject.name = 'AppGitHub'
+
+include ':app'
